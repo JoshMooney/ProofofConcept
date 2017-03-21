@@ -1,0 +1,7 @@
+int id remote_surface_view 0x7f040000
+int layout remote_display_layout 0x7f020000
+int string app_name 0x7f030000
+int string error_google_play_services_update_required 0x7f030003
+int string error_remote_display_initialization_error 0x7f030004
+int string error_remote_display_not_supported 0x7f030002
+int string unknown_device 0x7f030001

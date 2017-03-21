@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/remote_surface_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<!-- From: file:/tmp/tmp-deduplicated280337511752669605/java/com/google/android/libraries/cast/unityplugin/remotedisplay/res/layout/remote_display_layout.xml -->

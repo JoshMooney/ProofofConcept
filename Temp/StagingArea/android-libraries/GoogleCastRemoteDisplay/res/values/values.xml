@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/tmp/tmp-deduplicated280337511752669605/java/com/google/android/libraries/cast/unityplugin/remotedisplay/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">UnityPlugin</string>
+    <string name="error_google_play_services_update_required">Google Play Services out of date.</string>
+    <string name="error_remote_display_initialization_error">Unable to initialize remote display.</string>
+    <string name="error_remote_display_not_supported">Remote display not supported on this device.</string>
+    <string name="unknown_device">Unknown device</string>
+</resources>
